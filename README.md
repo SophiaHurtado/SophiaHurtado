@@ -8,7 +8,7 @@ Ei! Sou a Sophia Hurtado, estudante de engenharia de software e técnica em dese
 - Sempre com um café em mãos ☕​
 - Atualmente estudando Engenharia de Software 👩‍💻​
 - Busco aprimorar meus projetos por aqui e mostrar um pouquinho da minha personalidade!🌈​
-- 
+- Amo ler, principalmente suspense 🥸
 ### Learning Now 📚
 
 <div style="display: inline-block; padding: 20px 0px;">
