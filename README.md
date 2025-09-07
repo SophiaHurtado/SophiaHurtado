@@ -6,7 +6,7 @@ Ei! Sou a Sophia Hurtado, estudante de engenharia de software e técnica em dese
 
 - Iniciei minha vida nos códigos em 2020 ​💻​
 - Sempre com um café em mãos ☕​
-- Atualmente estudando Engenharia de Software 👩‍💻​
+- Atualmente estudando DATA SCIENCE 👩‍💻​
 - Busco aprimorar meus projetos por aqui e mostrar um pouquinho da minha personalidade!🌈​
 - Amo ler, principalmente suspense 🥸
 ### Learning Now 📚
