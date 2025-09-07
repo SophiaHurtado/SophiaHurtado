@@ -1,7 +1,7 @@
 
 # Eai galera!
 
-Ei! Sou a Sophia Hurtado, estudante de engenharia de software e técnica em desenvolvimento de sistemas, fascinada em aprender!
+Ei! Sou a Sophia Hurtado,técnica em desenvolvimento de sistemas, fascinada em aprender!
 ## Sobre mim 💡
 
 - Iniciei minha vida nos códigos em 2020 ​💻​
