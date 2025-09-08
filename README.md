@@ -6,7 +6,7 @@ Oi! Eu sou a <b>Sophia Hurtado</b> 🌑 💙 💖
 
 <p align="center">
   <!-- Mulher programando -->
-  <img src="https://i.imgur.com/SEU_GIF_AQUI.gif" width="300px" alt="Coding Girl"/>
+  <img src="https://i.imgur.com/2pP4dXm.gif" width="300px" alt="Coding Girl"/>
 </p>
 
 ---
@@ -36,22 +36,10 @@ Oi! Eu sou a <b>Sophia Hurtado</b> 🌑 💙 💖
 ## 🔮 Vibes
 
 <p align="center">
-  <!-- Dean Winchester -->
+  <!-- Aqui você coloca seus gifs preferidos de SPN -->
+  <!-- Exemplo:
   <img src="https://i.imgur.com/DEAN_GIF.gif" width="220px" alt="Dean Winchester"/>
-
-  <!-- Sam Winchester -->
-  <img src="https://i.imgur.com/SAM_GIF.gif" width="220px" alt="Sam Winchester"/>
-
-  <!-- Castiel -->
-  <img src="https://i.imgur.com/CASTIEL_GIF.gif" width="220px" alt="Castiel"/>
-</p>
-
-<p align="center">
-  <!-- Impala Baby -->
-  <img src="https://i.imgur.com/IMPALA_GIF.gif" width="250px" alt="Chevy Impala"/>
-
-  <!-- Coffee -->
-  <img src="https://i.imgur.com/COFFEE_GIF.gif" width="180px" alt="Coffee"/>
+  -->
 </p>
 
 ---
