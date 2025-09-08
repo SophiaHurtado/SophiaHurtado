@@ -35,9 +35,14 @@ Oi! Eu sou a <b>Sophia Hurtado</b> 🌑 💙 💖
 ## 🔮 Vibes
 
 <p align="center">
-  <img src="https://media.giphy.com/media/fdLR6LGwAiVUI/giphy.gif" width="220px" alt="Castiel"/>
-  <img src="https://media.giphy.com/media/l3vR85PnGsBwu1PFK/giphy.gif" width="220px" alt="Carry On My Wayward Son"/>
-  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="180px" alt="Coffee"/>
+  <!-- Castiel vibes -->
+  <img src="https://media.giphy.com/media/11SIBu3s72Co8w/giphy.gif" width="220px" alt="Castiel"/>
+
+  <!-- Supernatural aesthetic -->
+  <img src="https://media.giphy.com/media/l41YtZOb9EUABnuqA/giphy.gif" width="220px" alt="Supernatural"/>
+
+  <!-- Coffee aesthetic -->
+  <img src="https://media.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif" width="200px" alt="Coffee"/>
 </p>
 
 ---
