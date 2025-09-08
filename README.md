@@ -35,14 +35,22 @@ Oi! Eu sou a <b>Sophia Hurtado</b> 🌑 💙 💖
 ## 🔮 Vibes
 
 <p align="center">
-  <!-- Castiel vibes -->
+  <!-- Dean Winchester -->
+  <img src="https://media.giphy.com/media/3o6Zt481isNVuQI1l6/giphy.gif" width="220px" alt="Dean Winchester"/>
+
+  <!-- Sam Winchester -->
+  <img src="https://media.giphy.com/media/xTiTnqUxyWbsAXq7Ju/giphy.gif" width="220px" alt="Sam Winchester"/>
+
+  <!-- Castiel -->
   <img src="https://media.giphy.com/media/11SIBu3s72Co8w/giphy.gif" width="220px" alt="Castiel"/>
+</p>
 
-  <!-- Supernatural aesthetic -->
-  <img src="https://media.giphy.com/media/l41YtZOb9EUABnuqA/giphy.gif" width="220px" alt="Supernatural"/>
+<p align="center">
+  <!-- Impala Baby -->
+  <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="250px" alt="Chevy Impala"/>
 
-  <!-- Coffee aesthetic -->
-  <img src="https://media.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif" width="200px" alt="Coffee"/>
+  <!-- Coffee -->
+  <img src="https://media.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif" width="180px" alt="Coffee"/>
 </p>
 
 ---
