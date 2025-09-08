@@ -6,7 +6,7 @@ Oi! Eu sou a <b>Sophia Hurtado</b> 🌑 💙 💖
 
 <p align="center">
   <!-- Mulher programando -->
-  <img src="https://i.imgur.com/2pP4dXm.gif" width="300px" alt="Coding Girl"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWQ1M2VjNTU5YjA3ZjI2ZmQ4OTIxOTVlY2Y0ZjM0MjM1NzY3NzBlYiZjdD1n/coxQHKASG60HrHtvkt/giphy.gif" width="300px" alt="Coding Girl"/>
 </p>
 
 ---
@@ -26,22 +26,4 @@ Oi! Eu sou a <b>Sophia Hurtado</b> 🌑 💙 💖
 <p align="center">
   <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
   <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg"/>
-</p>
-
----
-
-## 🔮 Vibes
-
-<p align="center">
-  <!-- Aqui você coloca seus gifs preferidos de SPN -->
-  <!-- Exemplo:
-  <img src="https://i.imgur.com/DEAN_GIF.gif" width="220px" alt="Dean Winchester"/>
-  -->
-</p>
-
----
-
-<p align="center">💜 Sempre codando com café e um toque de <b>Supernatural</b> 💜</p>
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-ori
