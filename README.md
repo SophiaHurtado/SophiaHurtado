@@ -6,7 +6,7 @@ Oi! Eu sou a <b>Sophia Hurtado</b> 🌑 💙 💖
 
 <p align="center">
   <!-- Mulher programando -->
-<https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDBvcmdiajYxeW96ZXZlYmxvbzE0enU3dzRldTY5MWI2c25scjBtZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif>
+<img src= "https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDBvcmdiajYxeW96ZXZlYmxvbzE0enU3dzRldTY5MWI2c25scjBtZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif"/>
 </p>
 
 ---
