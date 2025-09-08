@@ -32,9 +32,9 @@
 ## 🎨 Vibes
 <div align="center">
 
-<img src="https://media.tenor.com/FtKjZ0pQ0JgAAAAC/coffee-cup.gif" width="180px" alt="Coffee"/>
 <img src="https://media.tenor.com/2roX3uxz_68AAAAC/castiel-supernatural.gif" width="200px" alt="Castiel"/>
-<img src="https://media.tenor.com/XVdfQ4McJ40AAAAC/supernatural-carryon.gif" width="220px" alt="Carry On My Wayward Son"/>
+<img src="https://media.tenor.com/XVdfQ4McJ40AAAAC/supernatural-carryon.gif" width="220px" alt="Carry On"/>
+<img src="https://media.tenor.com/FtKjZ0pQ0JgAAAAC/coffee-cup.gif" width="180px" alt="Coffee"/>
 
 </div>
 
