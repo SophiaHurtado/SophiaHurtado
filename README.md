@@ -37,21 +37,14 @@ Oi! Eu sou a <b>Sophia Hurtado</b> 🌑 💙 💖
 
 <p align="center">
   <!-- Dean Winchester -->
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDRjYTYxZWU3NGM4Y2RhZTk0N2NkNGY1OGU0YjkwM2Y5OTZlMDE0YyZjdD1n/3o6Zt481isNVuQI1l6/giphy.gif" width="220px" alt="Dean Winchester"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3a2NiM3h5a2YxN29sNDZwN3c4dDlhb3A3MTZvMnRtaGszZ25zems4NiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/JlVkLKuxRSvLy/giphy.gif" width="220px" alt="Dean Winchester"/>
 
-  <!-- Sam Winchester -->
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGE4Njk2ZWQxZWU0ZDJjMzFiNmFlYjk2NTA1YzU0MGRmZmZjODBlMyZjdD1n/xTiTnqUxyWbsAXq7Ju/giphy.gif" width="220px" alt="Sam Winchester"/>
+  <!-- CODE -->
+  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3Y2lkOXRtMnBrYjVnZnlsOTRhamNzNnIxYmhvaGJodWZubTJpZm92YSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/kanka5wfr3BxGpLRQu/giphy.gif" width="220px" alt="Sam Winchester"/>
 
-  <!-- Castiel -->
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzE2YjIxNGE5ZDA1Mzg0YTM1YjVhMmViNzcwYzgzOGViNGI0MzRkNCZjdD1n/11SIBu3s72Co8w/giphy.gif" width="220px" alt="Castiel"/>
-</p>
-
-<p align="center">
-  <!-- Impala Baby -->
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2Q1NWM3N2FlMzVkZTgwZjU5YmQ3MjhjOGNjNzg1YTdmOGNjNDlhYSZjdD1n/26AHONQ79FdWZhAI0/giphy.gif" width="250px" alt="Chevy Impala"/>
-
+ 
   <!-- Coffee -->
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTJkM2ViODZhMWJmY2UwNjYzMDI5MzdhZTIwZDNjMDVjZTQxOTFkNyZjdD1n/fwbZnTftCXVocKzfxR/giphy.gif" width="180px" alt="Coffee"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3c284d28zN3Jkd3RvcG91eGdqMGxmODMxenQ4Y2drODE3ampzMXF5ZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/687qS11pXwjCM/giphy.gif" width="180px" alt="Coffee"/>
 </p>
 
 ---
