@@ -11,13 +11,14 @@ Oi! Eu sou a <b>Sophia Hurtado</b> 🌑 💙 💖
 
 ---
 
-## 💡 Sobre mim
+## 🌟 A Little About Me
 
-- Iniciei minha vida nos códigos em 2020 📘  
-- Sempre com um café em mãos ☕  
-- Atualmente estudando **Data Science** 👩‍💻  
-- Busco aprimorar meus projetos por aqui e mostrar um pouquinho da minha personalidade 🌈  
-- Amo ler, principalmente suspense 🥸  
+- Started my coding journey back in 2020 📘  
+- Always with a coffee in hand ☕  
+- Currently diving deep into **Data Science** 👩‍💻  
+- Always improving my projects and sharing a bit of my personality 🌈  
+- Passionate reader, especially suspense & thrillers 🥸  
+ 
 
 ---
 
