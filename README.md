@@ -6,7 +6,7 @@ Oi! Eu sou a <b>Sophia Hurtado</b> 🌑 💙 💖
 
 <p align="center">
   <!-- Mulher programando -->
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWQ1M2VjNTU5YjA3ZjI2ZmQ4OTIxOTVlY2Y0ZjM0MjM1NzY3NzBlYiZjdD1n/coxQHKASG60HrHtvkt/giphy.gif" width="300px" alt="Coding Girl"/>
+  [<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWQ1M2VjNTU5YjA3ZjI2ZmQ4OTIxOTVlY2Y0ZjM0MjM1NzY3NzBlYiZjdD1n/coxQHKASG60HrHtvkt/giphy.gif"](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDBvcmdiajYxeW96ZXZlYmxvbzE0enU3dzRldTY5MWI2c25scjBtZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif) width="300px" alt="Coding Girl"/>
 </p>
 
 ---
