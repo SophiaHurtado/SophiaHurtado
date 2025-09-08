@@ -3,8 +3,9 @@
   <img src="https://media.tenor.com/5ry-200hErMAAAAi/hunter-supernatural.gif" width="90px" />
   <h1>✨ Code Like a Girl ✨</h1>
   <h3>Oi! Eu sou a Sophia Hurtado ☕💙💖</h3>
-  <img src="https://i.imgur.com/9Q9ZQZg.gif" width="300px" alt="Supernatural Vibes"/>
+  <img src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif" width="300px" alt="Coding Vibes"/>
 </div>
+
 
 ---
 
