@@ -50,4 +50,4 @@ Oi! Eu sou a <b>Sophia Hurtado</b> 🌑 💙 💖
 
 ---
 
-<p align="center">💜 Sempre codando com café e um toque de <b>Supernatural</b> 💜</p> faz os trees gifs de final, terem o mesmo tamanho / proporção pff
+
