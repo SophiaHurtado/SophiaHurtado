@@ -37,21 +37,21 @@ Oi! Eu sou a <b>Sophia Hurtado</b> 🌑 💙 💖
 
 <p align="center">
   <!-- Dean Winchester -->
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmFlYmE0ZTVkZWM2NzlkMmU3ZjdiMzM4YmM3NjJkMzljODg0MWQ4YiZjdD1n/3o6Zt481isNVuQI1l6/giphy.gif" width="220px" alt="Dean Winchester"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDRjYTYxZWU3NGM4Y2RhZTk0N2NkNGY1OGU0YjkwM2Y5OTZlMDE0YyZjdD1n/3o6Zt481isNVuQI1l6/giphy.gif" width="220px" alt="Dean Winchester"/>
 
   <!-- Sam Winchester -->
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmY2NGZjOGI2ZTc2NDU0Mzk1OWI2YzdlN2Q4Y2E0ZGEwZjY0YTBlMyZjdD1n/xTiTnqUxyWbsAXq7Ju/giphy.gif" width="220px" alt="Sam Winchester"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGE4Njk2ZWQxZWU0ZDJjMzFiNmFlYjk2NTA1YzU0MGRmZmZjODBlMyZjdD1n/xTiTnqUxyWbsAXq7Ju/giphy.gif" width="220px" alt="Sam Winchester"/>
 
   <!-- Castiel -->
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzUwNmNkNzlkZTc5ZjQzM2QzMzI5YzIzZThhMzcyZGM2MWIzZmM3MiZjdD1n/11SIBu3s72Co8w/giphy.gif" width="220px" alt="Castiel"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzE2YjIxNGE5ZDA1Mzg0YTM1YjVhMmViNzcwYzgzOGViNGI0MzRkNCZjdD1n/11SIBu3s72Co8w/giphy.gif" width="220px" alt="Castiel"/>
 </p>
 
 <p align="center">
   <!-- Impala Baby -->
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWI0ZTViMjUwZGFhZjQ1ZDJmNzQzNzQzMDhmMWE5ZDZjMTM4ZmQ2YiZjdD1n/26AHONQ79FdWZhAI0/giphy.gif" width="250px" alt="Chevy Impala"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2Q1NWM3N2FlMzVkZTgwZjU5YmQ3MjhjOGNjNzg1YTdmOGNjNDlhYSZjdD1n/26AHONQ79FdWZhAI0/giphy.gif" width="250px" alt="Chevy Impala"/>
 
   <!-- Coffee -->
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2U1ZGI0NTUwZjBlNjEwMjY5YTAyNDMxYjk0MDg0ZGY2ZTI3MDhhYyZjdD1n/fwbZnTftCXVocKzfxR/giphy.gif" width="180px" alt="Coffee"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTJkM2ViODZhMWJmY2UwNjYzMDI5MzdhZTIwZDNjMDVjZTQxOTFkNyZjdD1n/fwbZnTftCXVocKzfxR/giphy.gif" width="180px" alt="Coffee"/>
 </p>
 
 ---
