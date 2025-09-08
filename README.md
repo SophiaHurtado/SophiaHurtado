@@ -5,7 +5,8 @@ Oi! Eu sou a <b>Sophia Hurtado</b> 🌑 💙 💖
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300px" alt="Coding Girl"/>
+  <!-- Mulher programando -->
+  <img src="https://i.imgur.com/SEU_GIF_AQUI.gif" width="300px" alt="Coding Girl"/>
 </p>
 
 ---
@@ -36,21 +37,21 @@ Oi! Eu sou a <b>Sophia Hurtado</b> 🌑 💙 💖
 
 <p align="center">
   <!-- Dean Winchester -->
-  <img src="https://media.giphy.com/media/3o6Zt481isNVuQI1l6/giphy.gif" width="220px" alt="Dean Winchester"/>
+  <img src="https://i.imgur.com/DEAN_GIF.gif" width="220px" alt="Dean Winchester"/>
 
   <!-- Sam Winchester -->
-  <img src="https://media.giphy.com/media/xTiTnqUxyWbsAXq7Ju/giphy.gif" width="220px" alt="Sam Winchester"/>
+  <img src="https://i.imgur.com/SAM_GIF.gif" width="220px" alt="Sam Winchester"/>
 
   <!-- Castiel -->
-  <img src="https://media.giphy.com/media/11SIBu3s72Co8w/giphy.gif" width="220px" alt="Castiel"/>
+  <img src="https://i.imgur.com/CASTIEL_GIF.gif" width="220px" alt="Castiel"/>
 </p>
 
 <p align="center">
   <!-- Impala Baby -->
-  <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="250px" alt="Chevy Impala"/>
+  <img src="https://i.imgur.com/IMPALA_GIF.gif" width="250px" alt="Chevy Impala"/>
 
   <!-- Coffee -->
-  <img src="https://media.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif" width="180px" alt="Coffee"/>
+  <img src="https://i.imgur.com/COFFEE_GIF.gif" width="180px" alt="Coffee"/>
 </p>
 
 ---
