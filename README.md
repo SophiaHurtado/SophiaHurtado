@@ -44,7 +44,7 @@ Oi! Eu sou a <b>Sophia Hurtado</b> 🌑 💙 💖
 
  
   <!-- Coffee -->
-  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3c284d28zN3Jkd3RvcG91eGdqMGxmODMxenQ4Y2drODE3ampzMXF5ZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/687qS11pXwjCM/giphy.gif" width="180px" alt="Coffee"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3c284d28zN3Jkd3RvcG91eGdqMGxmODMxenQ4Y2drODE3ampzMXF5ZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/687qS11pXwjCM/giphy.gif" width="220px" alt="Coffee"/>
 </p>
 
 ---
