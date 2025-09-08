@@ -3,9 +3,8 @@
   <img src="https://media.tenor.com/5ry-200hErMAAAAi/hunter-supernatural.gif" width="90px" />
   <h1>✨ Code Like a Girl ✨</h1>
   <h3>Oi! Eu sou a Sophia Hurtado ☕💙💖</h3>
-  <img src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif" width="300px" alt="Coding Vibes"/>
+  <img src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding-girl.gif" width="300px" alt="Coding Girl"/>
 </div>
-
 
 ---
 
@@ -33,9 +32,9 @@
 ## 🎨 Vibes
 <div align="center">
 
-<img src="https://media.tenor.com/FtKjZ0pQ0JgAAAAC/coffee-cup.gif" width="180px"/>
-<img src="https://media.tenor.com/2roX3uxz_68AAAAC/castiel-supernatural.gif" width="200px"/>
-<img src="https://media.tenor.com/XVdfQ4McJ40AAAAC/supernatural-carryon.gif" width="200px"/>
+<img src="https://media.tenor.com/FtKjZ0pQ0JgAAAAC/coffee-cup.gif" width="180px" alt="Coffee"/>
+<img src="https://media.tenor.com/2roX3uxz_68AAAAC/castiel-supernatural.gif" width="200px" alt="Castiel"/>
+<img src="https://media.tenor.com/XVdfQ4McJ40AAAAC/supernatural-carryon.gif" width="220px" alt="Carry On My Wayward Son"/>
 
 </div>
 
@@ -46,6 +45,15 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=SophiaHurtado&show_icons=true&theme=radical" />
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SophiaHurtado&layout=compact&langs_count=7&theme=radical" />
 </div>
+
+---
+
+<div align="center">
+  
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F09CDA&center=true&vCenter=true&width=500&lines=Code+Like+a+Girl!;Keep+Coding,+Keep+Hunting.;Powered+by+Coffee+☕;Supernatural+Energy+🌌)
+
+</div>
+
 
 ---
 
