@@ -6,7 +6,7 @@ Oi! Eu sou a <b>Sophia Hurtado</b> 🌑 💙 💖
 
 <p align="center">
   <!-- Mulher programando -->
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDBvcmdiajYxeW96ZXZlYmxvbzE0enU3dzRldTY5MWI2c25scjBtZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" width="300px" alt="Coding Girl"/>
+<img src= "https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDBvcmdiajYxeW96ZXZlYmxvbzE0enU3dzRldTY5MWI2c25scjBtZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif"/>
 </p>
 
 ---
@@ -37,8 +37,16 @@ Oi! Eu sou a <b>Sophia Hurtado</b> 🌑 💙 💖
 
 <p align="center">
   <!-- Dean Winchester -->
-  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3a2NiM3h5a2YxN29sNDZwN3c4dDlhb3A3MTZvMnRtaGszZ25zems4NiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/JlVkLKuxRSvLy/giphy.gif" width="220px" height="150px" alt="Dean Winchester"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3a2NiM3h5a2YxN29sNDZwN3c4dDlhb3A3MTZvMnRtaGszZ25zems4NiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/JlVkLKuxRSvLy/giphy.gif" width="220px" alt="Dean Winchester"/>
 
   <!-- CODE -->
-  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3Y2l
+  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3Y2lkOXRtMnBrYjVnZnlsOTRhamNzNnIxYmhvaGJodWZubTJpZm92YSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/kanka5wfr3BxGpLRQu/giphy.gif" width="220px" alt="Sam Winchester"/>
 
+ 
+  <!-- Coffee -->
+  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3c284d28zN3Jkd3RvcG91eGdqMGxmODMxenQ4Y2drODE3ampzMXF5ZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/687qS11pXwjCM/giphy.gif" width="220px" alt="Coffee"/>
+</p>
+
+---
+
+<p align="center">💜 Sempre codando com café e um toque de <b>Supernatural</b> 💜</p> faz os trees gifs de final, terem o mesmo tamanho / proporção pff
