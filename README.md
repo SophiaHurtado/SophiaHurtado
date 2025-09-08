@@ -5,7 +5,7 @@ Oi! Eu sou a <b>Sophia Hurtado</b> 🌑 💙 💖
 </p>
 
 <p align="center">
-  <img src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding-girl.gif" width="300px" alt="Coding Girl"/>
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300px" alt="Coding Girl"/>
 </p>
 
 ---
@@ -35,9 +35,9 @@ Oi! Eu sou a <b>Sophia Hurtado</b> 🌑 💙 💖
 ## 🔮 Vibes
 
 <p align="center">
-  <img src="https://media.tenor.com/2roX3uxz_68AAAAC/castiel-supernatural.gif" width="220px" alt="Castiel"/>
-  <img src="https://media.tenor.com/XVdfQ4McJ40AAAAC/supernatural-carryon.gif" width="220px" alt="Carry On My Wayward Son"/>
-  <img src="https://media.tenor.com/FtKjZ0pQ0JgAAAAC/coffee-cup.gif" width="180px" alt="Coffee"/>
+  <img src="https://media.giphy.com/media/fdLR6LGwAiVUI/giphy.gif" width="220px" alt="Castiel"/>
+  <img src="https://media.giphy.com/media/l3vR85PnGsBwu1PFK/giphy.gif" width="220px" alt="Carry On My Wayward Son"/>
+  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="180px" alt="Coffee"/>
 </p>
 
 ---
