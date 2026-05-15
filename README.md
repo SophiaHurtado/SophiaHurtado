@@ -1,7 +1,7 @@
 <h1 align="center">✨ Code Like a Girl ✨</h1>
 
 <p align="center">
-Oi! Eu sou a <b>Sophia Hurtado</b> 🌑 💙 💖
+Hi! I'am <b>Sophia Hurtado</b> 🌑 💙 💖
 </p>
 
 <p align="center">
