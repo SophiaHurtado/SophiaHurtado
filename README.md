@@ -16,8 +16,8 @@ Hi! I'am <b>Sophia Hurtado</b> 🌑 💙 💖
 - Started my coding journey back in 2020 📘  
 - Always with a coffee in hand ☕  
 - Currently diving deep into **Data Science** 👩‍💻  
-- Always improving my projects and sharing a bit of my personality 🌈  
-- Passionate reader, especially suspense & thrillers 🥸  
+- Always improving my projects and sharing a bit of my personality   
+
  
 
 ---
